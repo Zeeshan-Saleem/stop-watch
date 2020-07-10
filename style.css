@@ -1,0 +1,51 @@
+.heading{
+    color: whitesmoke;
+    background-color: transparent;
+    text-align: center;
+    /* border: 1px solid green;  */
+    
+}
+.time{
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    background-color: rgba(56, 23, 45, 0.9);
+    text-align: center;
+    /* background: transparent; */
+    color: white
+    
+}
+.maindiv{
+    padding-top: 30px;
+}
+body{
+    /* background-color: black; */
+    background-image: url("https://image.freepik.com/free-photo/male-hand-starts-analog-stopwatch-black-background-close-up-isolate-copy-space_94132-222.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.btn{
+    display: inline-block;
+    text-align: center;
+    height: 50px;
+    width: 100px;
+    color: white;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    border-bottom: 1px solid royalblue;
+    border-top: 1px solid royalblue;
+    border-right: 1px solid royalblue;
+    border-left: 1px solid royalblue;
+
+}
+mainbtn{
+    text-align: center;
+}
+.btn:hover{
+    background-color: lightblue;
+    
+}
